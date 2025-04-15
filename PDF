@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF Editor</title>
+    <style>body { margin: 0; padding: 0; font-family: sans-serif; background-color: #f0f0f0; } </style>
+</head>
+<body>
+    <p style="padding: 20px; color: #555;">エディタを読み込み中...</p>
+    </body>
+</html>
